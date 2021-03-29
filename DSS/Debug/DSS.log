@@ -1,0 +1,3 @@
+﻿  DSS.cpp
+C:\Users\Orest\source\repos\DSS\DSS.cpp(135,43): warning C4018: '<': signed/unsigned mismatch
+  DSS.vcxproj -> C:\Users\Orest\source\repos\DSS\Debug\DSS.exe

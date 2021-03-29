@@ -1,0 +1,2 @@
+C:\Users\Orest\source\repos\DSS\Debug\DSS.exe
+C:\Users\Orest\source\repos\DSS\Debug\DSS.pdb
